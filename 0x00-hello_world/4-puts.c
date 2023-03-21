@@ -1,11 +1,11 @@
 #include <stdio.h>
 /*
  * 
- * main - a line of code using puts
+ * main - Entry poin Print a line of code using puts
  *
- * Return: 0 (Success)
+ * Return: 0
  */
-int mai(void)
+int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
