@@ -1,7 +1,6 @@
 #include <stdio.h>
-/*
- * 
- * main - Entry poin Print a line of code using puts
+/**
+ * main - Entry point Print a line of code using puts
  *
  * Return: 0
  */
